@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.editor {
+  font-size: 3rem;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+}

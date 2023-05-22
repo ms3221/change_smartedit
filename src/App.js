@@ -45,9 +45,6 @@ function App() {
         "http://localhost:3005/smartstore/edit",
         {
           products_no,
-        },
-        {
-          withCredentials: true,
         }
       );
     } catch (e) {

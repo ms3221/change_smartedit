@@ -61,7 +61,7 @@ function App() {
           placeholder="상품번호를 입력해주세요"
           style={{
             width: "100%",
-            height: 800,
+            height: 700,
             fontSize: 20,
             fontWeight: "bold",
           }}

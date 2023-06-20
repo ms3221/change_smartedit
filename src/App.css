@@ -49,6 +49,7 @@
   box-shadow: 3px 3px 3px white;
   transition-duration: 0.3s;
   margin-bottom: 2%;
+  padding: 1%;
 }
 .edit_btn > button:active {
   margin-left: 5px;

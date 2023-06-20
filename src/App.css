@@ -9,7 +9,7 @@
 }
 
 .title {
-  width: 30%;
+  width: 40%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,24 +21,24 @@
 }
 
 .product_no_input {
-  width: 30%;
+  width: 40%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .banner {
-  width: 30%;
+  width: 40%;
 }
 .edit_btn {
-  width: 30%;
+  width: 40%;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 1%;
 }
 .edit_btn > button {
-  width: 500px;
+  width: 400px;
   height: 80px;
   border-radius: 30px;
   border-style: none;
